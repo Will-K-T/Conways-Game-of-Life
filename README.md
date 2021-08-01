@@ -1,4 +1,4 @@
-# Conways-Game-of-Life
+# Conways Game of Life
 This is my version of Conway’s Game of Life in JavaScript using p5.js. I created this project to make my own interactive background for my PC. I have a program called wallpaper engine that lets people create and upload custom wallpapers through the creation of a web app. So I created my own web app and uploaded it to wallpaper engine so that anyone can use it! You can check it out for yourself by installing wallpaper engine and subscribing to the steam workshop page below!
 
 Steam Workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=2163418349
